@@ -5,3 +5,6 @@
 [submodule "LightLogR"]
 	path = LightLogR
 	url = https://github.com/tscnlab/lightlogr
+[submodule "glcdp"]
+	path = glcdp
+	url = https://github.com/tscnlab/glc-dp-r
